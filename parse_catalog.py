@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-import os
-import sys
 import db_objects
 import projection_parser
 from db_source_structure import SourceStructure
