@@ -4,3 +4,4 @@ __pycache__/
 
 catalog.sql
 full_catalog/*
+.idea/*
